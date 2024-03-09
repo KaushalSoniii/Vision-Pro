@@ -8,7 +8,7 @@ This is a clone of the Apple Vision Pro website, created using HTML, CSS, JavaSc
 
 ## Demo
 
-You can view a live demo of the project [here](link-to-demo).
+You can view a live demo of the project [here](https://kaushalsoniii.github.io/Vision-Pro/).
 
 ## Features
 
