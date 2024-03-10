@@ -1,7 +1,5 @@
 # Apple Vision Pro 
-
 ![Apple Vision Pro Clone](demo.gif)
-
 ## Description
 
 This is a clone of the Apple Vision Pro website, created using HTML, CSS, JavaScript, and Canvas. This project aims to replicate the functionality and aesthetics of the original website.
@@ -15,13 +13,6 @@ You can view a live demo of the project [here](https://kaushalsoniii.github.io/V
 - **Responsive Design**: The website is designed to be fully responsive and optimized for various screen sizes and devices.
 - **Canvas Animation**: Utilizes HTML5 Canvas for dynamic and interactive animations, providing a visually appealing user experience.
 - **Customizable**: Easy to customize and extend to fit your specific requirements or preferences.
-
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone this repository:  https://github.com/KaushalSoniii/apple-vision-pro-clone.git
-2. Open `index.html` in your preferred web browser.
 
 ## Usage
 
