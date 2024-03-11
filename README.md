@@ -2,7 +2,7 @@
 ![Apple Vision Pro Clone](demo.gif)
 ## Description
 
-This is a clone of the Apple Vision Pro website, created using HTML, CSS, JavaScript, and Canvas. This project aims to replicate the functionality and aesthetics of the original website.
+This is a clone of the Apple Vision Pro website, created using HTML, CSS, JavaScript, and Canvas. This project aims to replicate the functionality and aesthetics of the original website..
 
 ## Demo
 
