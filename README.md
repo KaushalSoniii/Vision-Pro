@@ -11,7 +11,7 @@ You can view a live demo of the project [here](https://kaushalsoniii.github.io/V
 ## Features
 
 - **Responsive Design**: The website is designed to be fully responsive and optimized for various screen sizes and devices.
-- **Canvas Animation**: Utilizes HTML5 Canvas for dynamic and interactive animations, providing a visually appealing user experience.
+- **Canvas Animation**: Utilizes HTML5 Canvas for dynamic and interactive animations, providing a visually appealing user experience
 - **Customizable**: Easy to customize and extend to fit your specific requirements or preferences.
 
 ## Usage
