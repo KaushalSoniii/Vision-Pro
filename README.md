@@ -16,7 +16,7 @@ You can view a live demo of the project [here](https://kaushalsoniii.github.io/V
 
 ## Usage
 
-Feel free to explore the code and make modifications as needed. You can customize the content, styles, and animations to suit your project requirements.
+Feel free to explore the code and make modifications as needed. You can customize the content, styles,  and animations to suit your project requirements.
 
 ## Contributing
 
@@ -30,7 +30,7 @@ This project is licensed under the MIT License.
 - **Open Source Community**: Various resources, libraries, and tutorials used in the development of this project.
 
 ## Contact
-For any inquiries or feedback, please contact kaushalsoni3344@gmail.com .
+For any inquiries or feedback, please contact kaushalsoni3344@gmail.com 
 
 ---
 
