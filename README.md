@@ -34,5 +34,5 @@ For any inquiries or feedback, please contact kaushalsoni3344@gmail.com
 
 ---
 
-*Note: This project is for educational purposes only and is not affiliated with Apple Inc*
+*Note: This project is for educational purposes only and is not affiliated with Apple Inc. *
 
