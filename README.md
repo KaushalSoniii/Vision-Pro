@@ -27,7 +27,7 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 This project is licensed under the MIT License.
 
 - **Apple**: Inspiration for the design and functionality of the original Apple Vision Pro website.
-- **Open Source Community**: Various resources, libraries and tutorials used in the development of this project.
+- **Open Source Community**: Various resources, libraries and tutorials used in the development of this project..
 
 ## Contact
 For any inquiries or feedback, please contact kaushalsoni3344@gmail.com 
