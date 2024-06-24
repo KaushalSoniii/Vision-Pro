@@ -30,7 +30,7 @@ This project is licensed under the MIT License.
 - **Open Source Community**: Various resources, libraries and tutorials used in the development of this project.
 
 ## Contact
-For any inquiries or feedback, please contact kaushalsoni3344@gmail.com 
+For any inquiries or feedback, please contact kaushalsoni3344@gmail.com ,
 
 ---
 
